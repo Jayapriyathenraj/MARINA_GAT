@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+xarray
+netCDF4
+torch
+torch-geometric
+copernicusmarine
+fastapi
+uvicorn
+pyngrok
